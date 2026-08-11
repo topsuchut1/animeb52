@@ -1,0 +1,25 @@
+{
+  "name": "Anime B52 - Xem Anime Vietsub",
+  "short_name": "AnimeT",
+  "description": "Trang tổng hợp điều hướng domain Anime B52 chính thức",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#0e0b08",
+  "theme_color": "#0e0b08",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "https://i.imgur.com/cnZzQMQ.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://i.imgur.com/cnZzQMQ.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
