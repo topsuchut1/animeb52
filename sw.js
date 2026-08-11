@@ -2,7 +2,7 @@ const CACHE_NAME = 'animet-pwa-v1';
 const ASSETS_TO_CACHE = [
   '/',
   'https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600;700;800&display=swap',
-  'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUv-oXjjltl4L86P0vYDU2jsYo1XYAsjfINd0bbdxQsBvZHQyHAeKBFzvJN29xhXttXMsIl1VfZ4v-53TLg-WwJUMK0imDkocKVUzxCwcYb5U08jsUQirZ4zyVqGVJeDotvO_nusHjGgSpA80nYwe9J7STrDuH_XQBD-AwkTzq3ih7uXTHY3XCJBxX_10/s320/max4g.png'
+  'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPGo8IPn3RN05O358YVEpitRcoHGQkSvs2JEgUiaG2WEjCKXAKmPBb2y8ZKCwd3bm-ZGVexVqOSe-60cMDG_SqNLS8J8ZnFE52o3v4uilvEMYMxgRJepnMaCu2tsg7rCvX2kHuOIxgIqvY4kJybzc4OXxxCTaeeJ1ReiaTEght-d19jhGLXXWVRH-qUWQ/s320/nicoco.png'
 ];
 
 // Install Event - Caching App Shell
