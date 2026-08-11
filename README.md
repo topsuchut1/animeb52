@@ -1,1 +1,1 @@
-# animeb52
+# animeb52.blogspot.com
