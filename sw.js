@@ -2,7 +2,7 @@ const CACHE_NAME = 'animet-pwa-v1';
 const ASSETS_TO_CACHE = [
   '/',
   'https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600;700;800&display=swap',
-  'https://i.imgur.com/cnZzQMQ.png'
+  'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUv-oXjjltl4L86P0vYDU2jsYo1XYAsjfINd0bbdxQsBvZHQyHAeKBFzvJN29xhXttXMsIl1VfZ4v-53TLg-WwJUMK0imDkocKVUzxCwcYb5U08jsUQirZ4zyVqGVJeDotvO_nusHjGgSpA80nYwe9J7STrDuH_XQBD-AwkTzq3ih7uXTHY3XCJBxX_10/s320/max4g.png'
 ];
 
 // Install Event - Caching App Shell
